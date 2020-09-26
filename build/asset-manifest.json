@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dikshaupmanyu/myapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dikshaupmanyu/myapp/static/js/main.bd4f2bd6.chunk.js",
+    "main.js.map": "/dikshaupmanyu/myapp/static/js/main.bd4f2bd6.chunk.js.map",
+    "runtime-main.js": "/dikshaupmanyu/myapp/static/js/runtime-main.b09db0c8.js",
+    "runtime-main.js.map": "/dikshaupmanyu/myapp/static/js/runtime-main.b09db0c8.js.map",
+    "static/js/2.763b34e5.chunk.js": "/dikshaupmanyu/myapp/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/dikshaupmanyu/myapp/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/dikshaupmanyu/myapp/index.html",
+    "precache-manifest.8b356d243d4322d3bf895d20bf49b04c.js": "/dikshaupmanyu/myapp/precache-manifest.8b356d243d4322d3bf895d20bf49b04c.js",
+    "service-worker.js": "/dikshaupmanyu/myapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dikshaupmanyu/myapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/dikshaupmanyu/myapp/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dikshaupmanyu/myapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b09db0c8.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bd4f2bd6.chunk.js"
+  ]
+}
